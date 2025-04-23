@@ -32,7 +32,7 @@ The objective of this project is to leverage Power BI to analyze and visualize H
 - Sales Executives dominate in count and performance ratings.
 
 ## Final Dashboard
-- <a href="">Dashboard</a>
+- <a href="https://github.com/VidyavaVidyavati/HR-Summary-Report-Analysis/blob/main/HR%20Report%20Dashboard.pbix">Dashboard</a>
 
 ## ✅Conclusion
 This HR analytics dashboard provides valuable insights into employee dynamics and organizational structure. It helps HR teams identify areas of concern such as potential gender-based income disparities and uneven departmental distribution. The clear visualization of job satisfaction and performance metrics enables informed strategic planning for talent development, workforce engagement, and compensation optimization.
