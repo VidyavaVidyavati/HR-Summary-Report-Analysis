@@ -10,7 +10,7 @@ The objective of this project is to leverage Power BI to analyze and visualize H
 - Support data-driven HR decisions to improve employee retention, satisfaction, and performance management.
 
 ## Dataset Used
-- <a href="">Dataset</a>
+- <a href="https://github.com/VidyavaVidyavati/HR-Summary-Report-Analysis/blob/main/HR%20Data.xlsx">Dataset</a>
 
 ## 📌Buisness Insight Questions 
 
